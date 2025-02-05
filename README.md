@@ -42,3 +42,9 @@
 
 ### PAS 8
 - S'introdueix el codi del 3 arxius restants manualment (read_registre.py, update_registre.py i delete_registre.py)
+
+#### Lists
+- S'ha imprimit la variable results on es guarda la llista resultant de la consulta SELECT per poder veure totes les dades.
+![alttext](img/list1.png "Taula")
+
+- 
