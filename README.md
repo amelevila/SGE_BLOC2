@@ -45,6 +45,10 @@
 
 #### Lists
 - S'ha imprimit la variable results on es guarda la llista resultant de la consulta SELECT per poder veure totes les dades.
+
 ![alttext](img/list1.png "Taula")
 
-- 
+- Per veure només un registre, es pot indicar quina posició de la llista imprimir utilitzant results[n], en aquest cas n es 4 i es pot veure les dades unicament de Alba seguidament.
+
+![alttext](img/list2.png "Taula")
+
