@@ -59,3 +59,9 @@
 - Finalment es volen extreure certes dades de la mateixa forma com a exercici de practica, a la següent captura es pot veure el resultat
 
 ![alttext](img/list_mini_exercici.png "List exercici")
+
+### PAS 8.2
+- A l'arxiu main.py s'ha afegit el codi indicat que mostrarà per columnes les dades de cada persona utilitzant un for tal i com es pot veure a la següent captura
+
+![alttext](img/main_canviat.png "main canviat")
+
