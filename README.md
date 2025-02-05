@@ -58,4 +58,4 @@
 
 - Finalment es volen extreure certes dades de la mateixa forma com a exercici de practica, a la següent captura es pot veure el resultat
 
-![alttext](img/list%20mini%20exercici.png "List exercici")
+![alttext](img/list_mini_exercici.png "List exercici")
