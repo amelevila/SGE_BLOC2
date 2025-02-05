@@ -46,9 +46,16 @@
 #### Lists
 - S'ha imprimit la variable results on es guarda la llista resultant de la consulta SELECT per poder veure totes les dades.
 
-![alttext](img/list1.png "Taula")
+![alttext](img/list1.png "List1")
 
 - Per veure només un registre, es pot indicar quina posició de la llista imprimir utilitzant results[n], en aquest cas n es 4 i es pot veure les dades unicament de Alba seguidament.
 
-![alttext](img/list2.png "Taula")
+![alttext](img/list2.png "List2")
 
+- Si es vol veure només una dada de un registre es pot imprimir utiitzant results[n][n], al voler veure el correu que està a la posició 4, en aquest cas s'utilitza results[4][3].
+
+![alttext](img/list3.png "List3")
+
+- Finalment es volen extreure certes dades de la mateixa forma com a exercici de practica, a la següent captura es pot veure el resultat
+
+![alttext](img/list%20mini%20exercici.png "List exercici")
