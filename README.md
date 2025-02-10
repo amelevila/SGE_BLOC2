@@ -65,3 +65,10 @@
 
 ![alttext](img/main_canviat.png "main canviat")
 
+- A continuació s'ha escrit el codi de update_registre.py i afegit la trucada al main amb una modificació, en comptes d'utilitzar id_cliente que no existeix el codi canviarà el teléfon dels clients quan sigui '678113452' a '000000000'. Seguidament s'ha anat modificant el fitxer 2 vegades més per també cambiar l'adreça quan sigui 'carrer el que sigui' a 'carrer de Barcelona' i el correu de 'correu@correu.com' a 'correu@gmail.com' A la següent captura es poden veure els resultats.
+
+![alttext](img/update_registre.png "update registre")
+
+- Finalment s'escriurà el document delete_registre.py i s'afegirà la trucada al main  per borrar una entrada, també es farà una modificació a delete_registre i s'utilitzara el nom del client en comptes del seu id. A la següent captura es veu com s'ha esborrat el client 'Aleix'.
+
+![alttext](img/delete_registre.png "delete registre")
